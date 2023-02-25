@@ -19,3 +19,17 @@ Obiettivi:
     7) Calcolare il punteggio medio durante la prima fase per ogni istituto;
     8) Stampare per ciascuna squadra il numero di atleti partecipanti e l' età media;
     
+
+**palette**
+
+BG -> #0f0e17
+Headline, button text, main -> #fffffe
+paragraph -> #a7a9be
+button -> #ff8906
+stroke -> black
+highlight -> #ff8906
+secondary -> #f25f4c
+tertiary -> #e53170
+
+
+
