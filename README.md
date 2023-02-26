@@ -23,7 +23,7 @@ Obiettivi:
 **palette**
 
 BG -> #0f0e17
-Headline, button text, main -> #fffffe
+Headline, button text, main -> #ff8906
 paragraph -> #a7a9be
 button -> #ff8906
 stroke -> black
