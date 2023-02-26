@@ -6,6 +6,9 @@
 <div class="nav-container hide-nav">
     <span class="close-btn">&times;</span>
     <h4 class="nav-text">
+        <a href="../main-page/main-page.php">Home</a>
+    </h4>
+    <h4 class="nav-text">
         <a href="../teams-page/teams-page.php">Le squadre</a>
     </h4>
     <h4 class="nav-text">
