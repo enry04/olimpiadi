@@ -19,6 +19,7 @@ Obiettivi:
     7) Calcolare il punteggio medio durante la prima fase per ogni istituto;
     8) Stampare per ciascuna squadra il numero di atleti partecipanti e l' età media;
     
+1 e 8 uguali
 
 **palette**
 

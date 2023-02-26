@@ -34,23 +34,23 @@ header {
     position: fixed;
     z-index: 1;
     top: 0;
-    left: 0;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 100px;
     border-radius: 5px;
+    width: 300px;
 }
 
 .show-nav {
-    width: 250px;
+    left: 0;
 }
 
 .show-nav-body {
-    margin-left: 250px;
+    margin-left: 300px;
 }
 
 .hide-nav {
-    width: 0;
+    left: -300px;
 }
 
 .nav-container span {
@@ -74,4 +74,5 @@ header {
 .nav-text {
     padding: 8px 8px 8px 32px;
     border-bottom: solid 1px black;
+    text-align: center;
 }

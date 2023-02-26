@@ -6,28 +6,25 @@
 <div class="nav-container hide-nav">
     <span class="close-btn">&times;</span>
     <h4 class="nav-text">
-        <a href="">fdsfds</a>
+        <a href="">Le squadre</a>
     </h4>
     <h4 class="nav-text">
-        <a href="">fdsfsdf</a>
+        <a href="">I risultati degli atleti</a>
     </h4>
     <h4 class="nav-text">
-        <a href="">fsdfsf</a>
+        <a href="">Il calendario delle gare</a>
     </h4>
     <h4 class="nav-text">
-        <a href="">fsdfs</a>
+        <a href="">I vincitori</a>
     </h4>
     <h4 class="nav-text">
-        <a href="">fds</a>
+        <a href="">Le classifiche</a>
     </h4>
     <h4 class="nav-text">
-        <a href="">fdsfsf</a>
+        <a href="">I punteggi record</a>
     </h4>
     <h4 class="nav-text">
-        <a href="">fsdfds</a>
-    </h4>
-    <h4 class="nav-text">
-        <a href="">fdsfsfs</a>
+        <a href="">Il punteggio medio in ogni istituto</a>
     </h4>
 </div>
 <script src="../common/js/nav-manager.js"></script>
