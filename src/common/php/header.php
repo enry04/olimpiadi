@@ -6,25 +6,25 @@
 <div class="nav-container hide-nav">
     <span class="close-btn">&times;</span>
     <h4 class="nav-text">
-        <a href="">Le squadre</a>
+        <a href="../teams-page/teams-page.php">Le squadre</a>
     </h4>
     <h4 class="nav-text">
-        <a href="">I risultati degli atleti</a>
+        <a href="../results-page/results-page.php">I risultati degli atleti</a>
     </h4>
     <h4 class="nav-text">
-        <a href="">Il calendario delle gare</a>
+        <a href="../calendar-page/calendar-page.php">Il calendario delle gare</a>
     </h4>
     <h4 class="nav-text">
-        <a href="">I vincitori</a>
+        <a href="../winners-page/winners-page.php">I vincitori</a>
     </h4>
     <h4 class="nav-text">
-        <a href="">Le classifiche</a>
+        <a href="../leaderboard-page/leaderboard-page.php">Le classifiche</a>
     </h4>
     <h4 class="nav-text">
-        <a href="">I punteggi record</a>
+        <a href="../records-page/records-page.php">I punteggi record</a>
     </h4>
     <h4 class="nav-text">
-        <a href="">Il punteggio medio in ogni istituto</a>
+        <a href="../scores-page/scores-page.php">Il punteggio medio in ogni istituto</a>
     </h4>
 </div>
 <script src="../common/js/nav-manager.js"></script>
