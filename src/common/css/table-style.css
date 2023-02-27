@@ -1,0 +1,98 @@
+.title-text{
+  color: #fffffe;
+  text-decoration: underline 2px #fffffe;
+  text-underline-offset: 7px;
+}
+
+main{
+  margin-top: 50px;
+}
+
+section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.no-data-text {
+    color: #e16162;
+    margin: 30px 0 30px 0;
+  }
+  
+  .table-container {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    flex-direction: column;
+  }
+  
+  table {
+    width: 90%;
+    border-spacing: 0;
+    border-collapse: separate;
+    border-radius: 5px;
+    border: #f25f4c solid 1px;
+  }
+  
+  /* Apply a border to the right of all but the last column */
+  table th:not(:last-child),
+  table td:not(:last-child) {
+    border-right: 1px solid #f25f4c;
+  }
+  
+  /* Apply a border to the bottom of all but the last row */
+  table thead th {
+    border-bottom: #f25f4c solid 1px;
+  }
+  
+  table > thead > tr:not(:last-child) > th,
+  table > thead > tr:not(:last-child) > td,
+  table > tbody > tr:not(:last-child) > th,
+  table > tbody > tr:not(:last-child) > td,
+  table > tr:not(:last-child) > td,
+  table > tr:not(:last-child) > th,
+  table > thead:not(:last-child),
+  table > tbody:not(:last-child) {
+    border-bottom: 1px solid #f25f4c;
+  }
+  
+  table th,
+  table td {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  table th {
+    font-size: 22px;
+    color: #e53170;
+  }
+  
+  table td {
+    color: #a7a9be;
+    font-size: 20px;
+  }
+  
+  .table-btn{
+    width: 150px;
+  }
+  
+  .details-btn:hover{
+    border: #233ccc solid 1px;
+    color: #233ccc;
+  }
+  
+  .confirm-btn:hover{
+    border: #02a199 solid 1px;
+    color: #02a199;
+  }
+  
+  .remove-btn:hover{
+    border: #bd0f0f solid 1px;
+    color: #bd0f0f;
+  }
