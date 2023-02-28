@@ -1,0 +1,41 @@
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+}
+
+input[type="text"] {
+  width: 350px;
+  height: 46px;
+  outline: 0;
+  border: solid 1px black;
+  padding: 0 0 0 10px;
+  font-size: 1.2em;
+  border-radius: 10px;
+  background-color: #fffffe;
+}
+
+input[type="button"]{
+    width: 200px;
+    height: 46px;
+    outline: 0;
+    border: solid 1px black;
+    font-size: 1.2em;
+    border-radius: 10px;
+    color: #fffffe;
+    background-color: #ff8906;
+    cursor: pointer;
+}
+
+.error-text{
+  color: #e53170;
+}
+
+.hide{
+  display: none;
+}
+
+section{
+  margin-top: 100px;
+}

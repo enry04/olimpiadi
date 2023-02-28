@@ -1,0 +1,49 @@
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body {
+    background-color: #0f0e17;
+    font-family: proxima-nova, sans-serif;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 32px;
+}
+
+h4 {
+    font-size: 28px;
+}
+
+h5 {
+    font-size: 22px;
+}
+
+h6 {
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: #fffffe;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #fffffe;
+    text-underline-offset: 6px;
+}
+
+
+@font-face {
+    font-family: proxima-nova;
+    src: url("../font/ProximaNova-Regular.otf");
+}
